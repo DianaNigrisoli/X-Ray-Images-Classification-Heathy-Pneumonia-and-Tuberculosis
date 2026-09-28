@@ -1,8 +1,6 @@
 # X-Ray-Images-Classification-Heathy-Pneumonia-and-Tuberculosis
 Project of Applied AI in Biomedicine course at PoliMi - 2022
 
-# Final Assignment: X-Ray Image Classification 
-
 ## Authors
 - Meri Ferretti
 - Diana Nigrisoli 
